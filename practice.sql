@@ -1,4 +1,4 @@
--- Advanced SQL Portfolio by [Your Name]
+-- Advanced SQL Portfolio by Sree Vaishnavi
 -- Sample database: Student Management System
 
 -- Use or create database
